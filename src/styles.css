@@ -1,2 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+/*slusamo svaki put kad kliknemo- kod onToggle i SideNavigation, za EmitterEvent*/
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
