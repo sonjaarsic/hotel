@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "63d7ed75e3610f688965b607"
+  },
+  "offerID": "63d695a300f7fc8982d8db78",
+  "userID": "63cc329b46c5703f07e1b20a",
+  "paymentType": "cash",
+  "numOfAdults": "1",
+  "numOfChildren": "0",
+  "comment": "test",
+  "fName": "klovan4",
+  "lName": "maxxx",
+  "phoneNumber": "123456",
+  "email": "test3@gmail.com",
+  "isAccepted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d7f239e3610f688965b66f"
+  },
+  "offerID": "63d6961d00f7fc8982d95bc6",
+  "userID": "63cd45ecef0ef02553717a86",
+  "paymentType": "cash",
+  "numOfAdults": "1",
+  "numOfChildren": "0",
+  "comment": "user1",
+  "fName": "RadiValjda2",
+  "lName": "testing",
+  "phoneNumber": "123456",
+  "email": "user1@gmail.com",
+  "isAccepted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d8052d49c56edde441ba38"
+  },
+  "offerID": "63d6961d00f7fc8982d95bee",
+  "userID": "63cc329b46c5703f07e1b20a",
+  "paymentType": "card",
+  "numOfAdults": "2",
+  "numOfChildren": "1",
+  "comment": "nadam se da je smestaj bas ugodan i da cu lepo da se smejem",
+  "fName": "Klovan",
+  "lName": "Smesko",
+  "phoneNumber": "064879879",
+  "email": "klovan_smesko@gmail.com",
+  "isAccepted": false,
+  "__v": 0
+}]
